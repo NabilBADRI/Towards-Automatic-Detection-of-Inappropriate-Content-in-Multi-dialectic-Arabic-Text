@@ -1,2 +1,2 @@
-# MyThirdProject
+# ThirdProject
 for testing
